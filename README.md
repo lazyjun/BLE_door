@@ -21,4 +21,4 @@ $ sudo pip3 install pymysql
 ```
 
 실행파일
-main_py 안에 ble_communication.py를 실행하면 된다.
+- main_py 안에 ble_communication.py를 실행하면 된다.
